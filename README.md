@@ -4,7 +4,7 @@
 Neste projeto foi designado um código.py que verifica a compatibilidade 
 de um candidato com uma vaga de acordo com seu resultado nas etapas do 
 processo seletivo.
----
+
 O código armazena os nomes dos candidatos em um dicionário dentro de uma lista 
 e em seguida usa uma função para filtrar os candidatos de acordo com os critérios 
 que usuário deseja.
